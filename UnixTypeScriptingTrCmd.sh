@@ -23,4 +23,4 @@ tr -s 'T' < uniqData
 
 #can use multiple options
 
-tr -cd '[]' <uniqData
+tr -cd '[]' < uniqData
